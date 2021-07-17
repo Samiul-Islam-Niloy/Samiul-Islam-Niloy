@@ -7,4 +7,4 @@ Hello there! Welcome to my GitHub Profile! 😁
 
 ![](https://hit.yhype.me/github/profile?user_id=42870024)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+<p align="center">![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)</p>

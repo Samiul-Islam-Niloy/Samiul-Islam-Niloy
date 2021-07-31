@@ -12,7 +12,7 @@ Hello there! Welcome to my GitHub Profile! 😁
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Islam-Niloy&langs_count=10&layout=compact)](https://github.com/Samiul-Islam-Niloy/github-readme-stats)-->
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Islam-Niloy&langs_count=10&layout=compact"/></p>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samiul-Islam-Niloy&langs_count=10&layout=compact"/></p>-->
 
 
 <!--[![Samiul Islam Niloy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samiul-Islam-Niloy)](https://github.com/Samiul-Islam-Niloy/github-readme-stats)-->
